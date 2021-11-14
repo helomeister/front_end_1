@@ -1,0 +1,57 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@500&family=Roboto:wght@500&display=swap');
+
+body{
+    
+    background-image: url(../img/drone.jpg);
+    background-size: cover;
+}
+
+h1{
+    margin-left: auto;
+    margin-right: auto;
+    font-family: 'Oswald',sans-serif;
+    padding: 15px;
+    background-color: #D2B48C;
+    width: 300px;
+    text-align: center;
+}
+
+.principal{
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.resumo{
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+   
+}
+
+.subtitulo{
+    font-family: 'Oswald', sans-serif;
+    background-color: #D2B48C;
+    text-align: center;
+    padding: 20px;
+}
+
+ul{
+    font-family: 'Roboto', sans-serif;
+    color: white;
+    background-color: black;
+    padding: 15px;
+}
+
+.icones{
+height: 50px;
+margin-top: 15px;
+margin-left: 20px;
+position: relative;
+left: 600px;
+}
+
+footer{
+    background-color: #D2B48C;
+    height: 80px;
+}
